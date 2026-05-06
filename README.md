@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    <img width:250px src="Henrique Gacia (1).png" />
+    <img width:250px src="Henrique Gacia.png" />
   </h2>
 </div>
 
