@@ -6,9 +6,21 @@
 
 <h3 align="center">Sobre mim</h3>
 <br>
-<img height="150" align="right" src="gifgit.gif"/>
+<img height="200" align="right" src="gifgit.gif"/>
 <p align="left">
-      Esse é o perfil de um programador full stack em desenvolvimento. Tenho 18 anos e sou formado no curso técnico em Desenvolvimento de Sistemas. Possuo conhecimento em diversas linguagens        de programação, como, por exemplo, Java, C#, C, Python e JavaScript. Estou em constante busca por conhecimento e por novos desafios, sempre tentando solucionar problemas de maneira            prática e eficiente.
+    Sou formado no curso técnico de Desenvolvimento de Sistemas, com foco na criação e aprimoramento de soluções tecnológicas.
+Possuo conhecimentos em desenvolvimento e fundamentos de software, buscando constantemente evoluir minhas habilidades técnicas e acompanhar as tendências da área de tecnologia.
+ 
+Principais habilidades:
+ 
+ • Lógica de programação <BR>
+ • Desenvolvimento em Java <BR>
+ • Estruturação e organização de código <BR>
+ • Noções de banco de dados <BR>
+ • Pacote Office (Word, Excel e PowerPoint) <BR>
+ • Resolução de problemas <BR>
+ 
+Tenho interesse em atuar na área de TI, contribuindo com soluções eficientes e aprimorando continuamente meus conhecimentos em desenvolvimento.
 </p> 
   
 <br></br> 
